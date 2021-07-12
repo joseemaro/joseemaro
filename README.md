@@ -8,3 +8,26 @@
 - 🌎 I speak two lenguages: spanish & English
 - 📫 How to reach me: joseemaro@hotmail.com
 
+### 🛠️ Tech Skills 
+```javascript
+const Emanuel = {
+   lenguages: [HTML, PHP, CSS, JS, PYTHON, JAVA],
+   leng_tools: {
+      css: [Bootstrap]
+      php: [Laravel]
+      java: [MVC, RabbitMQ]
+      js: [AJAX, Jquery]
+   },
+   db: [SQLServer, mySQL, MongoDB],
+   general_tools: [git, trello],
+   
+   learning: [NodeJs, ReactJs, JavaSpring]
+   
+};
+```
+### ✒️ Work in progress...
+
+#### I’m actually working on 3 proyects
+- Data analysis of Google App Store apps using python for preprocessing and machine learning.
+- Analysis of traffic congestion at traffic lights using machine learning.
+- Tire sales web site using NodeJs & ReactJs.
