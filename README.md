@@ -2,8 +2,8 @@
 ### I’m from Lujan, Buenos Aires, Argentina.
 
 ### 👨‍🦱 Let me show you some about me:
-- 🏃  I’m 24 years old
-- 🔭 I’m currently searching my first work in IT
+- 🏃  I’m 25 years old
+- 🔭 I’m working as Backend Developer ay Besysfot
 - 🌱 I’m study Information Systems at <a href="http://www.unlu.edu.ar/"> UNLu </a>
 - 🌎 I speak two lenguages: spanish & English
 - 📫 How to reach me: joseemaro@hotmail.com
@@ -17,11 +17,12 @@ const Emanuel = {
       php: [Laravel]
       java: [MVC, RabbitMQ]
       js: [AJAX, Jquery]
+      python: [Pandas,Sklearn, Numpy, Matplotlib, Tensorflow, Keras, Seaborn]
    },
-   db: [SQLServer, mySQL, MongoDB],
-   general_tools: [git, trello],
+   db: [SQLServer, mySQL, MongoDB, Oracle SQL],
+   general_tools: [git, trello, CVS],
    
-   learning: [NodeJs, ReactJs, JavaSpring]
+   learning: [NodeJs, ReactJs, Java-Spring]
    
 };
 ```
