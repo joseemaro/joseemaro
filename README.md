@@ -2,7 +2,7 @@
 ### I’m from Lujan, Buenos Aires, Argentina.
 
 ### 👨‍🦱 Let me show you some about me:
-- 🏃  I’m 25 years old
+- 🏃  I’m 27 years old
 - 🔭 I’m working as Backend Developer ay Besysfot
 - 🌱 I’m study Information Systems at <a href="http://www.unlu.edu.ar/"> UNLu </a>
 - 🌎 I speak two lenguages: spanish & English
@@ -11,12 +11,12 @@
 ### 🛠️ Tech Skills 
 ```javascript
 const Emanuel = {
-   lenguages: [HTML, PHP, CSS, JS, PYTHON, JAVA],
+   lenguages: [JAVA, HTML, PHP, CSS, JS, PYTHON],
    leng_tools: {
       css: [Bootstrap]
       php: [Laravel]
       java: [MVC, RabbitMQ]
-      js: [AJAX, Jquery]
+      js: [AJAX, Jquery, Angular]
       python: [Pandas,Sklearn, Numpy, Matplotlib, Tensorflow, Keras, Seaborn]
    },
    db: [SQLServer, mySQL, MongoDB, Oracle SQL],
