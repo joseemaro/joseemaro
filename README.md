@@ -3,7 +3,7 @@
 
 ### 👨‍🦱 Let me show you some about me:
 - 🏃  I’m 27 years old
-- 🔭 I’m working as Backend Developer ay Besysfot
+- 🔭 I’m working as Backend Developer ay Besysoft
 - 🌱 I’m study Information Systems at <a href="http://www.unlu.edu.ar/"> UNLu </a>
 - 🌎 I speak two lenguages: spanish & English
 - 📫 How to reach me: joseemaro@hotmail.com
